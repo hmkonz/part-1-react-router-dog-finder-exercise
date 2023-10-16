@@ -1,0 +1,23 @@
+.DogDetails img {
+    max-width: 33%;
+    border-radius: 5%;
+    margin-top: 20px;
+    margin-left: 450px;
+}
+
+.DogDetails h2 {
+    margin-left: 650px;
+}
+
+.DogDetails h3 {
+    margin-left: 630px;
+}
+
+.DogDetails ul {
+    margin-left: 575px;
+}
+
+.link {
+    margin-left: 650px;
+    padding-bottom: 50px;
+}
